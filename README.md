@@ -3,6 +3,9 @@
 ## Overview
 The GenAI-based Financial Assistant is a web application designed to bridge the gap in financial literacy for investors in India. The platform provides AI-driven financial education and investment product discovery, helping users understand investment concepts and explore financial instruments using structured UI elements.
 
+## Demo Link 
+http://aiphen.atrv.tech
+
 ## Objectives
 - Educate users on investment concepts through AI-powered conversations and embedded fintech videos from YouTube.
 - Provide a structured interface with filters and sorting to discover investment products.
