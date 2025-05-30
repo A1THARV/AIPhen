@@ -1,4 +1,4 @@
-# AIPhen# GenAI-Based Financial Assistant
+# AIPhen GenAI-Based Financial Assistant
 
 ## Overview
 The GenAI-based Financial Assistant is a web application designed to bridge the gap in financial literacy for investors in India. The platform provides AI-driven financial education and investment product discovery, helping users understand investment concepts and explore financial instruments using structured UI elements.
