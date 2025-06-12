@@ -26,7 +26,7 @@ interface MarketDataResponse {
 
 export async function fetchIndianMarketData(): Promise<MarketDataResponse> {
   try {
-    const API_KEY = process.env.GEMINI_API_KEY || "AIzaSyAHfIUSCgBlKAO4PNezW6usmbHPnzDHHM4"
+    const API_KEY = process.env.GEMINI_API_KEY
     const genAI = new GoogleGenerativeAI(API_KEY)
 
     // Create a safety settings object
