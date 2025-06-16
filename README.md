@@ -1,5 +1,8 @@
-<img src="https://i.ibb.co/Z6J7kgdr/aiphen-logo-2.png">  
-# AIPhen – GenAI-Based Financial Education Platform
+<h1>
+  <img src="https://i.ibb.co/Z6J7kgdr/aiphen-logo-2.png" width="70" height="70" align="center">
+  <b>AIPhen – GenAI-Based Financial Education Platform</b>
+</h1>
+
 
 AIPhen is a privacy-first, GenAI-powered platform designed to improve financial literacy among Indian investors. Rather than promoting investment execution, AIPhen focuses purely on **financial education** — simplifying complex concepts through AI-powered conversations, real-time data, and interactive dashboards.
 
